@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859710794392",
+    "project_id": "yaqeen-1",
+    "storage_bucket": "yaqeen-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859710794392:android:d72e84f7da4089b9797eed",
+        "android_client_info": {
+          "package_name": "com.example.yaqeen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_sn-lyvc-8HFZ0L8xFzqInnEMwpS_-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
